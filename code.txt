@@ -10,10 +10,3 @@ python detect_faults.py
 
 
 streamlit run app.py
-# -------------------------------
-# 7️⃣ SIMULATE REAL-TIME REFRESH
-# -------------------------------
-if st.button("🔁 Simulate Real-Time Refresh"):
-    with st.spinner("Analyzing new data..."):
-        time.sleep(2)
-        st.experimental_rerun()
