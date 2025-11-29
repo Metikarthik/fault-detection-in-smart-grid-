@@ -191,8 +191,6 @@ GitHub: [Metikarthik](https://github.com/Metikarthik)
 
 Feel free to fork, contribute, or open issues in the repository.
 
----
 
-If you want, I can also **export this as a PDF**, or **generate a requirements.txt** file.
 
 
